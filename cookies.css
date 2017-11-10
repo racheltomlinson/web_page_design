@@ -1,0 +1,47 @@
+/*
+* Rachel Tomlinson
+* November 7, 2017
+* cookies html and css page
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+h1 {
+	font-size: 50px;
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: underline overline;
+	background-color: CornflowerBlue; }
+
+h2 {
+	background-color: LightCyan;
+	color: Blue; }
+
+/* Put body attributes here */
+
+body { 
+	font-family: "Times New Roman", Times, serif;
+	font-weight: 200; }
+
+p {
+	background-color: White;
+	color: HotPink; }
+
+img {
+	float: right }
+	
+footer {
+	background-color:LightCyan; }
+
+
+
+
+
+
+
+
