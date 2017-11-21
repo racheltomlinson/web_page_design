@@ -1,0 +1,30 @@
+body {
+	background-color: mistyrose;
+	font-family: "Arial" }
+
+img {
+	height: 140px;
+	width: 510px; }
+	
+h1 {
+	font-family: "apple chancery" }
+	
+h2 {
+	font-family: "apple chancery" }
+
+a:visited {
+	color: mediumblue;
+	text-decoration: underline; }
+
+a:hover {
+	color: fuchsia; 
+	font-size: 25px; } 
+	
+footer {
+	font-family: "times new roman", times, serif; }
+	
+
+	
+	
+
+	
