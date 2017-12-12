@@ -1,0 +1,56 @@
+/*
+* Rachel Tomlinson
+* November 7, 2017
+* sumatran tiger
+*/
+
+/* The universal selector */
+
+p {
+font-size: 32px; }
+/*to make all the text excluding headings the same size*/
+
+
+img {
+border: 3px;
+margin: 15px;
+width: 325px;
+height: 275px;
+padding: 10px; 
+float: right; }
+/*to make all the images look the same*/
+
+		h1 {
+		font-family: "Century Gothic", century, serif;
+		font-size: 42px ; 
+		color: lightcoral; }
+		
+			h2 {
+			font-size: 42px;
+			background-color: lightblue; 
+			width: 505px; }
+
+				h3 {
+				font-size: 42px;
+				background-color: lightblue;
+				width: 215px; } 
+
+					h4 {
+					font-size: 42px;
+					background-color: lightblue;
+					width: 250px; }
+
+/*i didnt put all the headings in all the same thing because the texts were different lengths 
+and i wanted the color boxes to match the size of the individual headings if that makes sense */
+
+
+
+
+
+
+
+
+
+
+
+
