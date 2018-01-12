@@ -1,0 +1,112 @@
+/*Rachel Tomlinson*/
+/* Ellen Swallow Richards Web Page */
+/*January 11, 2018 */
+
+
+* { margin: 0; padding: 0; }
+		/* universal selector */
+body {
+	width: 90%;
+	background-color: black;
+	margin: 10px auto;
+	border: 2px solid white;
+	color: lavender; }
+		/* the body is where the short bio on ellen is */
+h1 { 
+	padding: 7px;
+	text-align: center;
+	color: lightgreen;
+	font-size: 20px; }
+		/* h1 includes the text in the header and the text at the top of all three columns*/
+h2 {
+	padding: 0px;
+	margin: 0px;
+	color: lightcoral;
+	font-size: 15px; }
+		/* h2 includes the coral-colored text in the trivia section */
+h3 {
+	padding: 3px;
+	color: lightgreen; 
+	font-size: 27px; }
+		/* h3 includes the word "sources" in the footer */
+h4 {
+	color: thistle;
+	float: right;
+	margin: 5px }
+		/* h4 includes the disclaimer in the footer */
+img {
+	margin:5px;
+	width: 100px;
+	height:125px;
+	float: left;
+	border: 1px solid white; }
+		/* img is the first picture in the main */
+figure {
+	width: 110px;
+	height: 139px;
+	float: right;
+	margin: 10px; 
+	border: 1px dashed white; } 
+		/* figure is the second picture in the main */ 
+header {
+	text-align: center;
+	border: 2px solid white;
+	height: 100px; }
+		/* ellen's name and occupation are found in the header at the top of the page */
+#sidebarA {
+	width: 24%;
+	height:403px;
+	float: left;
+	border: 2px solid white; 
+	text-align: center; }
+		/* sidebar a contains trivia on the left side of the page */
+main { 
+	height: 400px;
+	width: 50%;
+	float: left;
+	margin: 5px; }
+		/* main includes the biography and two pictures in the middle of the page */ 
+#sidebarB {
+	width: 24%;
+	height: 403px;
+	border: 2px solid white;
+	float: right; 
+	text-align: center; }
+		/* sidebar b contains ellen's achievements on the right side of the page */
+footer {
+	clear: both; 
+	margin: 5px;
+	height: 100px;
+	border-top: 2px solid white;  }
+		/* the footer contains my sources for the info on this site at the bottom of the page */
+a:visited {
+	color: cornflowerblue; 
+	text-decoration: underline; }
+		/* a;visited makes the link color a lighter blue */
+a:hover {
+	color: floralwhite;
+	font-size: 25px; }
+		/*a:hover makes the text larger and white when you hover over it with your mouse */
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
